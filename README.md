@@ -9,7 +9,7 @@ This project is working in progress.
 
 | Project  | Origin Language | Origin Article | Rewrite Language | Rewrite Article  | Status |
 |----------|-----------------|----------------|------------------|------------------|--------|
-| blockcode | Javascript | [Blockcode: A visual programming toolkit](http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html) |  |  |  |
+| blockcode | Javascript | [Blockcode: A visual programming toolkit](http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html) |  | [Blockcode: 可视化编程工具](https://blog.csdn.net/code_for_fun/article/details/51898028) |  |
 | ci       | Python          | [A Continuous Integration System](http://aosabook.org/en/500L/a-continuous-integration-system.html) | Python           | [rewrite-ci](https://shuhari.dev/blog/2020/06/500lines-rewrite-ci) | Done   |
 | cluster  | Python | [Clustering by Consensus](http://aosabook.org/en/500L/clustering-by-consensus.html) |  |  |  |
 | contingent | Python | [Contingent: A Fully Dynamic Build System](http://aosabook.org/en/500L/contingent-a-fully-dynamic-build-system.html) | Python           | [rewrite-contingent](https://shuhari.dev/blog/2021/02/500lines-rewrite-contingent)           | Done   |
